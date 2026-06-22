@@ -29,4 +29,4 @@ Tableau Public: https://public.tableau.com/views/Top10PickupLocationsByDemand/Sh
 Average Driver Idle Time between Rides:  
 https://public.tableau.com/views/AverageDriverIdleTimeBetweenRides/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 
-It should be noted the dataset used for 03-Driver Supply Analysis is synthetic as such their isn't much variation and the idle times for instance are unrealistic.
+It should be noted the dataset used for 02-Rider Cohort Retention Analysis & 03-Driver Supply Analysis are generated as such their isn't much variation and the idle times for instance are unrealistic.
