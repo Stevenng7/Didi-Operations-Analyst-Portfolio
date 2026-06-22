@@ -20,13 +20,13 @@ Are riders coming back after their first trip and how quickly do we lose them?
 ### 03-Driver Supply Analysis  
 Tools: SQL, Tableau  
 
-Average Ride per Driver by Hour:
+Average Ride per Driver by Hour:  
 Tableau Public: https://public.tableau.com/views/AvgRideperDriverbyHour/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Top 10 Pickup Locations By Demand:
+Top 10 Pickup Locations By Demand:  
 Tableau Public: https://public.tableau.com/views/Top10PickupLocationsByDemand/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Average Driver Idle Time between Rides:
+Average Driver Idle Time between Rides:  
 https://public.tableau.com/views/AverageDriverIdleTimeBetweenRides/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 It should be noted the dataset used for 03-Driver Supply Analysis is synthetic as such their isn't much variation and the idle times for instance are unrealistic.
