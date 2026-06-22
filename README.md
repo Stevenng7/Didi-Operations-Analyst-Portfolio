@@ -1,5 +1,5 @@
 # Didi-Operations-Analyst-Portfolio
-Portfolio on Uber/Lyft Datasets utilising Tableau, SQL and Python
+Portfolio on Uber/Lyft Datasets utilising Tableau and SQL
 
 Projects built to display operations analytics skills
 
