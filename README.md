@@ -3,21 +3,21 @@ Portfolio on Uber/Lyft Datasets utilising Tableau, SQL and Python
 
 Projects built to display operations analytics skills
 
-##Projects
+## Projects
 
-###01-Ride-Hailing Supply & Demand Dashboard  
+### 01-Ride-Hailing Supply & Demand Dashboard  
 Tools: Tableau  
 Tableau Public: https://public.tableau.com/views/UberLyftAnalysis_17818733406220/DemandOveriew?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 What is being answered: 
 How does rider demand behave across time and location?
 
-###02-Rider Cohort Retention Analysis  
+### 02-Rider Cohort Retention Analysis  
 Tools: SQL, Tableau  
 Tableau Public: https://public.tableau.com/views/RiderCohortRetentionAnalysis/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 What is being answered: 
 Are riders coming back after their first trip and how quickly do we lose them?
 
-###03-Driver Supply Analysis  
+### 03-Driver Supply Analysis  
 Tools: SQL, Tableau  
 
 Average Ride per Driver by Hour:
