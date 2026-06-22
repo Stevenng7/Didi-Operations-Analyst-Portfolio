@@ -6,7 +6,7 @@ Projects built to display operations analytics skills
 ##Projects
 
 ###01-Ride-Hailing Supply & Demand Dashboard
-Tools: Tableau
+Tools: Tableau <br>
 Tableau Public: https://public.tableau.com/views/UberLyftAnalysis_17818733406220/DemandOveriew?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 What is being answered: 
 How does rider demand behave across time and location?
